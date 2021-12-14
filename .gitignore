@@ -1,0 +1,3 @@
+#For security, we exclude this files
+credentials.json
+.env
