@@ -1,3 +1,6 @@
 #For security, we exclude this files
 credentials.json
 .env
+venv
+__pycache__
+
